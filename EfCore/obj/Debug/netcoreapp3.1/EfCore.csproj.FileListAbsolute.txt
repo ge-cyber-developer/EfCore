@@ -147,8 +147,6 @@ C:\Users\giova\source\repos\EfCore\EfCore\bin\Debug\netcoreapp3.1\ru\Microsoft.C
 C:\Users\giova\source\repos\EfCore\EfCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\giova\source\repos\EfCore\EfCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\giova\source\repos\EfCore\EfCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\giova\source\repos\EfCore\EfCore\obj\Debug\netcoreapp3.1\EfCore.csproj.CoreCompileInputs.cache
-C:\Users\giova\source\repos\EfCore\EfCore\obj\Debug\netcoreapp3.1\EfCore.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\giova\source\repos\EfCore\EfCore\obj\Debug\netcoreapp3.1\EfCore.dll
 C:\Users\giova\source\repos\EfCore\EfCore\obj\Debug\netcoreapp3.1\EfCore.pdb
 C:\Users\giova\source\repos\EfCore\EfCore\obj\Debug\netcoreapp3.1\EfCore.genruntimeconfig.cache

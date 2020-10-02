@@ -26,6 +26,22 @@ namespace EfCore
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+
+            services.AddSwaggerGen(c =>
+            {
+                c.SwaggerDoc("v1",
+                    new OpenApiInfo
+                    {
+                        Title = "ApiBoletim",
+                        Version = "v1",
+                        Description = "API Rest para aprendizado",
+                        Contact = new OpenApiContact
+                        {
+                            Name = "Georgia",
+                            Url = new Uri("https://github.com/ge-cyber-developer")
+                        }
+                    });
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
